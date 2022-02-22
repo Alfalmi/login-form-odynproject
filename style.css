@@ -222,7 +222,7 @@ main .img-block .img-block__logo {
   height: -moz-fit-content;
   height: fit-content;
   position: relative;
-  top: -10%;
+  top: -50%;
 }
 
 @media screen and (max-width: 650px) {
