@@ -302,7 +302,6 @@ main .form-block .form-block__para-container p {
   font-size: 1.5rem;
   font-weight: 500;
   display: inline;
-  text-align: center;
 }
 
 @media screen and (max-width: 650px) {
