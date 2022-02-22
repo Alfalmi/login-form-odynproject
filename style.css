@@ -302,6 +302,7 @@ main .form-block .form-block__para-container p {
   font-size: 1.5rem;
   font-weight: 500;
   display: inline;
+  text-align: center;
 }
 
 @media screen and (max-width: 650px) {
@@ -316,18 +317,21 @@ main .form-block .form-block__form-container form {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  
 }
 
 main .form-block .form-block__form-container h3.form-header {
   font-size: 2rem;
   margin: 0;
   width: 100%;
+  margin-left: 20vw;
 }
 
 main .form-block .form-block__form-container .asterisk-para {
   width: 100%;
   margin: 0;
   opacity: 0.5;
+  margin-left: 15vw;
 }
 
 @media only screen and (orientation: Portrait) {
